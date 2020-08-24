@@ -1,0 +1,22 @@
+{
+  "name": "ExampleToken",
+  "version": "1.0.0",
+  "description": "Truffle Box for a bare-minimum Truffle project (`truffle init`)",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/contracts": "^3.1.0",
+    "@truffle/hdwallet-provider": "^1.0.42"
+  },
+  "devDependencies": {
+    "solc": "^0.6.12"
+  }
+}
