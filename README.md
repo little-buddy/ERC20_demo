@@ -4,7 +4,7 @@
 按以下步骤操作前，请确定已经安装了 [ganache](https://www.trufflesuite.com/ganache) 客户端并启动。
 
 ```
-git clone git@github.com:little-buddy/ERC20_demo.git
+git clone https://github.com/little-buddy/ERC20_demo.git
 ```
 
 ```
